@@ -4,4 +4,31 @@
 **[Smooth Scrolling](https://wordpress.org/plugins/smooth-scrolling/)**
 ==========================
 
-Add sleek smooth scrolling to your site for seamless content navigation, enhancing user interaction.
+📜 Elevate your site’s scrolling experience instantly. No settings needed, Engage visitors with effortless transitions that keep them scrolling longer. Install in seconds!
+
+### Features
+- ✔️ Mouse wheel, middle mouse and keyboard support/n
+- ⌨️ Arrow keys, PgUp/PgDown, Spacebar, Home/End
+- 💻 Full touchpad support
+
+Scroll smoothly 😌
+
+----------
+
+### How does it work?
+
+No settings to configure! your website’s scrolling instantly becomes smoother and more elegant.
+
+----------
+
+
+### ***Changelog***
+
+
+#### Version 1.0.1 | 18 April 2025 | 1404/1/29
+- Tested up to WP 6.8
+- Minor code improvements
+
+#### Version 1.0
+
+- Initial Public Release
